@@ -1,0 +1,231 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+ul{
+    display:flex;
+    padding-top: 0.5%;
+    list-style-type:none;
+    margin-left: 15%;
+}
+li a{
+    text-decoration: none;
+
+}
+.logo{
+    
+    margin-left:-100px;
+    position: fixed;
+    padding-right:15% ;
+     box-shadow: 0px 0px 5px 0px; 
+
+     padding-top:2px ;
+     width: 100%;
+        
+    }
+    input{
+        margin-top: 50%;
+    }
+.LL{
+margin-top:5%;
+
+}
+.third_row div{
+    padding: 1005%;
+    margin-top:0%;
+    margin-left:0%;
+
+
+}
+.RR{
+    float:right;
+    text-align: right;
+    margin-right:-40%;
+    margin-top:-16%;
+}
+.text:hover{
+    color: red;
+    
+}
+.material-icons:hover{
+    
+    color: red; 
+}
+
+.material-icons
+{    
+        margin-left:0px;
+    padding-left: 5px;
+    padding-bottom: 1px;
+    color:#413a3a;
+    
+    
+}
+img{
+    padding-left: -22%;
+    
+}
+.text1{
+    margin-top:10%;
+    margin-left:5%;
+    margin-right:-25%;
+    color:#312929;
+    
+
+}
+.side:hover{
+background-color:white;
+color:red;
+border-color: red;
+}
+.more:hover{
+    background-color: red;
+    color:white;
+}
+.more{
+    /* border-style:solid; */
+    /* border-color: rgba(0, 0, 0, 0.19); */
+    border-radius: 25px;
+    height:15%;
+    margin-top:1% ;
+    margin-right:4% ;
+    background-color: white;
+    color:black;
+    width:4%;
+    height:3%;
+    border-color:#8D8D8D;
+}
+.searchf:hover{
+    background-color:#e61f1f;
+
+}
+
+.side{
+    
+    margin-top: 5%;
+    border-radius:5px;
+    padding-left: 16px;
+    padding-right: 14px;
+    height: 6%;
+    text-align: center;
+    padding-top:0.5% ;
+    font-size:65%;
+    background-color: white;
+}
+.search:hover{
+    background-color:#e84747;
+    border-color:#e84747;
+
+}
+.search{
+    margin:50% -45% 0% 65% ;
+    background-color:#fa1212;
+    border-color:#e84747;
+    border-radius: 5px;
+    padding: 6% 35% 5% 5%;
+    color:white;
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* float: right; */
+    
+    }
+.arrow{
+    border-radius: 50%;
+    margin-left:61%;
+    margin-top:-12%;
+    border-style:solid;
+    border-color:red
+}
+.text{
+    color:#332b2b;
+}
+
+.lside{
+    margin-top:6% ;
+    margin-left:8% ;
+    margin-right:19% ;
+    border-radius: 6px;
+    height:580px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding-left:1%;
+    padding-right:10%;
+    padding-top:12px;
+    position:fixed;
+
+
+}
+.fix header{
+    font-weight: 550;
+
+}
+
+ul {
+    display: flex;
+    padding-top: 0.5%;
+    list-style-type: none;
+    margin-left: 5%;
+}
+
+li {
+    padding: 0px 20px;
+}
+
+li a {
+    text-decoration: none;
+
+}
+.white{
+    /* border-style: solid; */
+    padding-top:24%;
+    padding-bottom:9%;
+    margin:-133% 5% 3% 63%;
+    width:9% ;
+    background-color: white;
+}
+
+.why{
+    margin-top:80%;
+    padding-left:1%;
+    padding-right:1%;
+    /* background-color:#fd0101;
+    width:21%;
+    margin-bottom: 90%;*/
+}
+#lnav_h{
+width:155%;
+font-weight: 800;
+font-stretch: extra-expanded;
+color:black;
+}
+.rside p{
+    text-transform: uppercase;
+    color:rgb(105, 165, 245);
+    
+    font-stretch: extra-expanded;
+    font-weight: 600;
+    margin:-1.2% 0% 0% 55%;
+}
+.rside h3{
+  font-weight: 300;  
+  margin:4% 0% 0% 45%;
+  font-family: 'Raleway', sans-serif;
+
+}
+.add1{
+    margin:6% 0% 0% 45%;
+}
+.add2{
+    margin:1% 0% 0% 45%;
+}
+.add3{
+    margin:1% 0% 0% 1%;
+}
+.head-o img{
+    margin:-5% 0% 0% 91%;
+    padding:0% 0.2% 0% 0%;
+    border-radius: 5px;
+    color:white;
+    border-style: solid;
+    border-color: #666666;
+    background-color: #666666;
+}
